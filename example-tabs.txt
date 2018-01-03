@@ -1,5 +1,5 @@
 
-Cover 2
+Cover 1
 
 Copyright 3
 
@@ -23,5 +23,5 @@ Chapter 3 24
 
 Appendix A 33
 
-List of images 36
+List of images 40
 
